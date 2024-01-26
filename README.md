@@ -1,1 +1,1 @@
-Used HTML and CSS
+Used HTML, CSS and JavaScript
